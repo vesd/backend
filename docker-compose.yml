@@ -2,5 +2,7 @@ version: '3'
 services:
   noad-backend:
     build: .
+    volumes:
+      - '.:/app:delegated'
     ports:
       - '5000:3000'
