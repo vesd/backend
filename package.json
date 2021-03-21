@@ -1,5 +1,5 @@
 {
-  "name": "node-backend",
+  "name": "noad-backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vesd/node-backend.git"
+    "url": "git+https://github.com/vesd/noad-backend.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vesd/node-backend/issues"
+    "url": "https://github.com/vesd/noad-backend/issues"
   },
-  "homepage": "https://github.com/vesd/node-backend#readme",
+  "homepage": "https://github.com/vesd/noad-backend#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
