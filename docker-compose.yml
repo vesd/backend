@@ -5,4 +5,4 @@ services:
     volumes:
       - '.:/app:delegated'
     ports:
-      - '5000:3000'
+      - '3000:3000'
